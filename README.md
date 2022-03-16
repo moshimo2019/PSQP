@@ -1,5 +1,5 @@
 # PSQP
-An implementation of [PSQP: Puzzle Solving by Quadratic Programming].
+An implementation of "PSQP: Puzzle Solving by Quadratic Programming".
 
 ## Requirements
 
